@@ -1,4 +1,4 @@
-# Stomp client for Kotlin/Android with auto reconnect
+# Stomp client via WebSocket for Kotlin/Android with auto reconnect
 
 ## Example 
 
